@@ -16,6 +16,10 @@ This project focuses on cleaning and preparing a dataset containing YouTube chan
 ---
 
 ## **Dataset**
+Raw Youtube data was retrieved from Kaggle.
+<img width="958" alt="Screenshot (29)" src="https://github.com/user-attachments/assets/27d2e5bf-b7d2-4a22-ad77-65b4c7825cf5" />
+
+
 The dataset includes the following key fields:
 - `rank`: Channel rank.
 - `Youtuber`: Channel name.
@@ -61,6 +65,9 @@ The dataset includes the following key fields:
 ---
 
 ## **Results**
+
+<img width="960" alt="Screenshot (30)" src="https://github.com/user-attachments/assets/eb974e7c-f1df-4556-a1c8-d5178072f2ca" />
+
 - All unusual characters removed, ensuring clean and standardized text fields.
 - Missing values handled appropriately for analysis-ready data.
 - Numerical fields converted to consistent formats for easy calculations.
